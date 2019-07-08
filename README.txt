@@ -9,3 +9,4 @@ Chapter01 了解JavaScript
 
 Chapter02 创建简单的脚本
     01. DateAndTimeScript.jsp                               --> 完整的日期和时间脚本
+    02. DateAndTimeScriptInHTML.html                        --> HTML文档中的日期和时间脚本
