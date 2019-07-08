@@ -12,3 +12,4 @@ Chapter02 创建简单的脚本
     02. DateAndTimeScriptInHTML.html                        --> HTML文档中的日期和时间脚本
     03. DateAndTimeByClock.html                             --> 用大钟表形式显示的日期和时间脚本
     04. DateAndTimeHtml.html                                --> 日期和时间脚本的HTML文件
+    05. datetime.js                                         --> 日期和时间脚本
