@@ -13,3 +13,7 @@ Chapter02 创建简单的脚本
     03. DateAndTimeByClock.html                             --> 用大钟表形式显示的日期和时间脚本
     04. DateAndTimeHtml.html                                --> 日期和时间脚本的HTML文件
     05. datetime.js                                         --> 日期和时间脚本
+
+Chapter03 开始JavaScript编程
+    01. EventHandlerExample.html                            --> 一个包括简单事件处理程序的HTML文档
+    
