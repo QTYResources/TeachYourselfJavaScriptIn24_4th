@@ -20,3 +20,6 @@ Chapter03 开始JavaScript编程
 Chapter04 使用文档对象模型（DOM）
     01. TestDocument.html                                   --> 显示最后修改日期
     02. BackAndForwardButtons.html                          --> 一个使用JavaScript制作包含“后退”和“前进”按钮的Web页面
+
+Chapter05 使用变量、字符串和数组
+    01. StringTest.html                                     --> 给字符串变量赋值并合并它们
