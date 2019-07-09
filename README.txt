@@ -30,3 +30,4 @@ Chapter06 使用函数和对象
     01. Functions.html                                      --> HTML文档中的Greet()函数
     02. UseFunctions.html                                   --> 完整的函数列表
     03. Average.html                                        --> HTML文档中的Average()函数
+    04. TestOfHeadingMethod.html                            --> 向String对象添加方法
