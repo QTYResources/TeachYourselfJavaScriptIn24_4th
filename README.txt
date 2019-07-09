@@ -33,3 +33,6 @@ Chapter06 使用函数和对象
     04. TestOfHeadingMethod.html                            --> 向String对象添加方法
     05. cardtest.js                                         --> 使用Card对象的脚本示例
     06. JavaScriptBusinessCards.html                        --> Card对象示例的HTML文件
+
+Chapter07 用条件和循环控制流程
+    01. IfStatementExample.html                             --> 时间和问候语示例的HTML文件
