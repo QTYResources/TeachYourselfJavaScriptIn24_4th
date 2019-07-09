@@ -31,3 +31,4 @@ Chapter06 使用函数和对象
     02. UseFunctions.html                                   --> 完整的函数列表
     03. Average.html                                        --> HTML文档中的Average()函数
     04. TestOfHeadingMethod.html                            --> 向String对象添加方法
+    05. cardtest.js                                         --> 使用Card对象的脚本示例
