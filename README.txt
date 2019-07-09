@@ -39,3 +39,4 @@ Chapter07 用条件和循环控制流程
     02. timegreet.js                                        --> 显示当前时间和问候语消息的脚本
     03. UsingAForLoop.html                                  --> 使用for关键字的循环
     04. LoopsExample.html                                   --> 提示输入姓名并显示姓名的HTML文件
+    05. loops.js                                            --> 提示输入姓名并显示姓名的脚本（JavaScript）
