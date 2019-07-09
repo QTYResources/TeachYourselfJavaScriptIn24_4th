@@ -25,3 +25,6 @@ Chapter05 使用变量、字符串和数组
     01. StringTest.html                                     --> 给字符串变量赋值并合并它们
     02. ArraySortingExample.html                            --> 排序示例的HTML文档
     03. sort.js                                             --> 排序示例的JavaScript文件
+
+Chapter06 使用函数和对象
+    01. Functions.html                                      --> HTML文档中的Greet()函数
