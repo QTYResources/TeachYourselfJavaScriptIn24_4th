@@ -16,4 +16,6 @@ Chapter02 创建简单的脚本
 
 Chapter03 开始JavaScript编程
     01. EventHandlerExample.html                            --> 一个包括简单事件处理程序的HTML文档
-    
+
+Chapter04 使用文档对象模型（DOM）
+    01. TestDocument.html                                   --> 显示最后修改日期
