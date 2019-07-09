@@ -28,3 +28,4 @@ Chapter05 使用变量、字符串和数组
 
 Chapter06 使用函数和对象
     01. Functions.html                                      --> HTML文档中的Greet()函数
+    02. UseFunctions.html                                   --> 完整的函数列表
