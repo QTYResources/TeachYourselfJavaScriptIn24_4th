@@ -23,3 +23,4 @@ Chapter04 使用文档对象模型（DOM）
 
 Chapter05 使用变量、字符串和数组
     01. StringTest.html                                     --> 给字符串变量赋值并合并它们
+    02. ArraySortingExample.html                            --> 排序示例的HTML文档
